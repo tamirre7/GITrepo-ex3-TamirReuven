@@ -4,7 +4,7 @@ public  class Hello
 	{
 		for(int i = 1; i <= 10; i++)
 		{
-			System.out.println("Today is Monday" + i);
+			System.out.println("Hello And Goodbye " + i);
 		}
 	}
 }

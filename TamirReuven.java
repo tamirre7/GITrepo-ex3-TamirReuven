@@ -1,4 +1,4 @@
-public  class Tamirreuven
+public  class TamirReuven
 {
 	public static void main(String[] args)
 	{
