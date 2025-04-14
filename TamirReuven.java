@@ -4,7 +4,7 @@ public  class TamirReuven
 	{
 		for(int i = 1; i <= 10; i++)
 		{
-			System.out.println("Tamir Reuven");
+			System.out.println("Sunny day");
 		}
 	}
 }
